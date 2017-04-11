@@ -1,0 +1,14 @@
+{
+  "name": "BandwidthTrackerUsingVnstat",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "macaddress": "^0.2.8",
+    "request": "^2.81.0",
+    "vnstat-dumpdb": "^2.0.1"
+  },
+  "scripts": {
+    "start" : "node script.js"
+  }
+}
